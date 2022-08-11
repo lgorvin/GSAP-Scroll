@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Caveat&family=Nanum+Pen+Script&family=Permanent+Marker&family=Raleway:wght@300&family=Roboto&family=Square+Peg&display=swap');
+
+* {
+  overflow: hidden;
+}
+
+h1 {
+  font-family: 'Bebas Neue', cursive;
+  color: white;
+  text-shadow: 0px 5px black, 0px 3px 2px;
+  transition: opacity 1.5s 0s ease-in-out;
+}
+
+p {
+  padding-top: 10px;
+  color: white;
+  transition: opacity 1.7s 0s ease-in-out;
+}
+
+body {
+  background: black;
+}
+
+.bg1 {
+  height: 100vh;
+  width: 100vw;
+  background: url("https://th.bing.com/th/id/R.c3878a026a37d1113a51b8dbfd37dca2?rik=sMY08fWqkY8MmQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fV1rT4MO.jpg&ehk=MfNWep7Uw7N1YDi3M%2bzpXwCwu%2fbQADRuS0%2f%2bTZWmq9s%3d&risl=&pid=ImgRaw&r=0");
+  background-size: cover;
+  background-position: center;
+  transition: opacity 1s 0s ease-in-out;
+}
+
+.bg2 {
+  height: 100vh;
+  width: 100vw;
+  background: url("https://th.bing.com/th/id/R.b2a2a209f96efdeb38e1afecaf6d260b?rik=lim3qkEy2LCxsw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-SXsLv03yRsw%2fUjM_geh_9jI%2fAAAAAAAAYdE%2f2wlkr7KtUTo%2fs1600%2fBeautiful%2bMountains%2bWallpapers%2b%2525281%252529.jpg&ehk=oz9I7wIMCyeNx9a4QZaFbyKgO3r20WLKCDLzHlhMhfU%3d&risl=&pid=ImgRaw&r=0");
+  background-size: cover;
+  background-position: center;
+  transition: opacity 1s 0s ease-in-out;
+}
+
+.bg3 {
+  height: 100vh;
+  width: 100vw;
+  background: url("https://th.bing.com/th/id/R.1411fb47cb4a369257081f251c5b8232?rik=zrZrnvG9EurEYA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-kjD9AtybsoU%2fUhx6XKmAaWI%2fAAAAAAAAX90%2fo2Bsy4AQIQI%2fs1600%2fMountains%2bWallpapers%2b%2525284%252529.jpg&ehk=PCNM89IH6evExsrcytuRb7uFer%2fj%2b3FbD92ICT%2feSSU%3d&risl=&pid=ImgRaw&r=0");
+  background-size: cover;
+  background-position: center;
+  transition: opacity 1s 0s ease-in-out;
+}
+
+.bg4 {
+  height: 100vh;
+  width: 100vw;
+  background: url("https://wallup.net/wp-content/uploads/2016/01/290173-landscape-nature-mountain.jpg");
+  background-size: cover;
+  background-position: center;
+  transition: opacity 1s 0s ease-in-out;
+}
+
+
